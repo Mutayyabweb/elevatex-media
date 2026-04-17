@@ -1,0 +1,9 @@
+service : {
+  /// Submit a contact form and send the data to info@elevatexmedia.com.
+  /// Returns #ok(confirmationMessage) on success or #err(errorMessage) on failure.
+  submitContactForm: (name: text, email: text, phone: text, company: 
+   text, "service": text, message: text) -> (variant {
+                                               err: text;
+                                               ok: text;
+                                             });
+}

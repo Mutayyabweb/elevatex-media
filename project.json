@@ -1,0 +1,25 @@
+{
+  "overview": "ElevateX Media is a full-service digital marketing agency website inspired by WebFX. It showcases 15+ services (SEO, PPC, web design, social media, content marketing, CRO, and more), a portfolio with case studies, team info, blog, and a contact form — all branded in a professional blue palette for Mutayyab Hussain's agency in Rawalpindi.",
+  "features": [
+    "Full homepage with hero, services grid, case study previews, testimonials, and CTA",
+    "15+ dedicated service pages: SEO, Local SEO, PPC, Social Media, Content Marketing, Email Marketing, Web Design, CRO, Amazon, ADA Compliance, and more",
+    "Portfolio / case studies section with filtering by category",
+    "About page with company story, values, and team stats",
+    "Contact page with validated form (collects leads)",
+    "Blog index with sample articles",
+    "Mobile-responsive layout with hamburger menu",
+    "Professional blue brand palette throughout"
+  ],
+  "category": "marketing-agency",
+  "tags": [
+    "digital-marketing",
+    "agency-website",
+    "seo",
+    "ppc",
+    "web-design",
+    "portfolio",
+    "react",
+    "tailwind"
+  ],
+  "last_updated": "2026-04-13T17:11:23.489Z"
+}
